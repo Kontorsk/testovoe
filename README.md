@@ -1,4 +1,4 @@
-# testovoeDragAndDrop
+# testovoe
 
 ## Project setup
 ```
